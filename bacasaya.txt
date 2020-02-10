@@ -1,4 +1,8 @@
 ini instalasi git dari local ke host repository
 
 
+
 ganti di cabang
+
+tambah a m
+
